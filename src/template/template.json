@@ -1,0 +1,76 @@
+{
+  "name": "Anton Wijaya",
+  "phone": "+62 857-0900-5738",
+  "email": "wijayaanton50@gmail.com",
+  "linkedin": "https://www.linkedin.com/in/anton-wijaya-059471196/",
+  "github": "https://github.com/antonwiji/",
+  "profileWeb": "antonwiji.github.io",
+  "summary": "Software Engineer with 3+ years of experience in developing Web and backend applications. Skilled in Java, JavaScript, Spring Boot, React.js, Next.js, PostgreSQL, MySQL, MariaDB, etc. Committed to delivering scalable solutions and continuously enhancing technical expertise.",
+  "workExp": [
+    {
+      "nameCompany": "PT. ABG",
+      "addressCompany": "Palembang, Indonesia",
+      "startWork": "Jan 2019",
+      "endWork": "Des 2023",
+      "workDisc": [
+        "Creating and developing a WordPress website theme and plugins for an online store selling various types of pipes, https://pipahsj.co.id (Expired Domain). Repo github https://github.com/antonwiji/themes-pipahsj.",
+        "Teaching private web development course using PHP.",
+        "Developing Android applications using Java and React Native."
+      ]
+    },
+    {
+      "nameCompany": "PT. YUIP",
+      "addressCompany": "Jakarta, Indonesia",
+      "startWork": "Des 2024",
+      "endWork": "Des 2025",
+      "workDisc": [
+        "Developed backend services and RESTful APIs using Spring Boot.",
+        "Designed and maintained database systems.",
+        "Managed application environments (DEV, SIT, UAT)."
+      ]
+    },
+    {
+      "nameCompany": "PT. ZXC",
+      "addressCompany": "Jakarta, Indonesia",
+      "startWork": "Des 2025",
+      "endWork": "Des 2026",
+      "workDisc": [
+        "Developed Dashboard Application"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "educationName": "Universitas Tamansiswa Palembang",
+      "educationDesc": "Management Economics (GPA: 3.64 out of 4.00)",
+      "startEducation": "Apr 2017",
+      "endEducation": "Oct 2021"
+    },
+    {
+      "educationName": "Universitas Pamulang",
+      "educationDesc": "Master of Computer Engineering",
+      "startEducation": "Apr 2024",
+      "endEducation": "Current"
+    }
+  ],
+  "skills": [
+    "Java",
+    "JavaScript",
+    "Spring Boot",
+    "React.js",
+    "Next.js",
+    "PostgreSQL",
+    "MySQL",
+    "MariaDB"
+  ],
+  "languages": [
+    "Indonesia",
+    "English"
+  ],
+  "certificates": [
+    "Certificate Participation Hackathon - PT Bank Raya Indonesia Tbk",
+    "E-Certificate Basic Rest API with Golang - Alterra Academy.",
+    "Responsive Web Design - freeCodeCamp."
+  ]
+
+}

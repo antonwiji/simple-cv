@@ -1,0 +1,81 @@
+.cvContainer {
+    width: 794px;
+    min-height: 1123px;
+    margin: auto;
+    padding: 40px;
+    box-sizing: border-box;
+    font-family: Times, serif;
+    background: #fff;
+    letter-spacing: 0.6px;
+    font-weight: 400;
+}
+
+.title {
+    font-size: 28px;
+    margin-bottom: 5px;
+    letter-spacing: 1px;
+}
+
+.contact {
+    font-size: 16px;
+    margin-bottom: 3px;
+}
+
+.summary {
+    font-size: 16px;
+    line-height: 1.6;
+    margin-bottom: 25px;
+    margin-top: 14px;
+    text-align: justify;
+}
+
+.sectionTitle {
+    font-weight: bold;
+    font-size: 16px;
+    margin-top: 25px;
+    margin-bottom: 14px;
+    border-bottom: 1px solid #000;
+    padding-bottom: 5px;
+}
+
+.job {
+    margin-bottom: 15px;
+}
+
+.jobAttribute {
+    display: flex;
+    justify-content: space-between;
+}
+
+.jobTitle {
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.jobMeta {
+    font-size: 16px;
+}
+
+.list {
+    padding-left: 18px;
+    margin: 5px 0;
+}
+
+.listItem {
+    font-size: 16px;
+    margin-bottom: 5px;
+    line-height: 1.4;
+}
+
+@media print {
+    @page {
+        page-break-after: always;
+        padding-top: 14mm;
+        padding-bottom: 8mm;
+        /* top right bottom left */
+    }
+
+    .cvContainer {
+        padding: 0px 40px 40px 40px;
+    }
+}
