@@ -9,7 +9,7 @@ const BasicTemplate = ({ data }) => {
                 {data.phone} | {data.email}
             </div>
             <div className={styles.contact}>
-                {data.linkedin} | {data.github}
+                {data.linkedin} {data.linkedin && data.github && "|"} {data.github}
             </div>
             <div className={styles.contact}>
                 {data.website}

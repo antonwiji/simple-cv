@@ -1,15 +1,15 @@
 {
   "name": "Anton Wijaya",
-  "phone": "+62 857-0900-5738",
+  "phone": "+62 800-0000-1232",
   "email": "wijayaanton50@gmail.com",
   "linkedin": "https://www.linkedin.com/in/anton-wijaya-059471196/",
   "github": "https://github.com/antonwiji/",
   "profileWeb": "antonwiji.github.io",
-  "summary": "Software Engineer with 3+ years of experience in developing Web and backend applications. Skilled in Java, JavaScript, Spring Boot, React.js, Next.js, PostgreSQL, MySQL, MariaDB, etc. Committed to delivering scalable solutions and continuously enhancing technical expertise.",
+  "summary": "Software Engineer with 5+ years of experience in developing Web and backend applications. Skilled in Java, JavaScript, Spring Boot, React.js, Next.js, PostgreSQL, MySQL, MariaDB, etc. Committed to delivering scalable solutions and continuously enhancing technical expertise.",
   "workExp": [
     {
       "nameCompany": "PT. ABG",
-      "addressCompany": "Palembang, Indonesia",
+      "addressCompany": "Jakarta, Indonesia",
       "startWork": "Jan 2019",
       "endWork": "Des 2023",
       "workDisc": [
@@ -41,13 +41,13 @@
   ],
   "education": [
     {
-      "educationName": "Universitas Tamansiswa Palembang",
+      "educationName": "Universitas AWS",
       "educationDesc": "Management Economics (GPA: 3.64 out of 4.00)",
       "startEducation": "Apr 2017",
       "endEducation": "Oct 2021"
     },
     {
-      "educationName": "Universitas Pamulang",
+      "educationName": "Universitas XZT",
       "educationDesc": "Master of Computer Engineering",
       "startEducation": "Apr 2024",
       "endEducation": "Current"
@@ -68,8 +68,8 @@
     "English"
   ],
   "certificates": [
-    "Certificate Participation Hackathon - PT Bank Raya Indonesia Tbk",
-    "E-Certificate Basic Rest API with Golang - Alterra Academy.",
+    "Certificate Participation Hackathon - PT. YUIP",
+    "E-Certificate Basic Rest API with Golang - freeCodeCamp.",
     "Responsive Web Design - freeCodeCamp."
   ]
 

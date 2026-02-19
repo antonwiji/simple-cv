@@ -56,11 +56,11 @@ export default function Home() {
 
       <div className="h-screen flex flex-col">
         {/* 🔥 Sticky Toolbar */}
-        <div className="h-14 bg-white shadow flex items-center justify-between px-6 sticky top-0 z-50">
-          <h1 className="font-bold">DevCV Builder</h1>
+        <div className="h-14 bg-white shadow flex items-center justify-between px-6 sticky top-0 z-50 py-2">
+          <h1 className="font-bold">SimpleCV</h1>
           <button
               onClick={handleDownload}
-              className="bg-black text-white px-4 py-2 rounded"
+              className="bg-black text-white px-4 py-2 rounded hover: cursor-pointer"
           >
             Download PDF
           </button>
