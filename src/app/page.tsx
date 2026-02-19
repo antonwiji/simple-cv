@@ -17,14 +17,14 @@ import DescItem from "@/components/DescItem";
 import { useReactToPrint } from "react-to-print";
 
 export default function Home() {
-  const {control, register, watch } = useForm({
+  const {control, register, watch } = useForm<any>({
       defaultValues: tempalte
   });
 
-  const { fields, append, remove } = useFieldArray({
+    const { fields, append, remove } = useFieldArray({
       control,
-      name:  "languages"
-  });
+        name: "languages"
+    });
 
   const { fields: workField, append: appendWork, remove: workRemove } = useFieldArray({
       control,
